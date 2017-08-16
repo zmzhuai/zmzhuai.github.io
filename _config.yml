@@ -16,10 +16,10 @@
 title: Y = WX + b
 email: zmzhuai@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  机器学习（神经网络）相关的知识储备
+  发布机器学习（神经网络）的相关知识
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: wukiim
+#twitter_username: wukiim
 #github_username:  zmzhuai
 
 # Build settings
